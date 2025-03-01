@@ -1,0 +1,15 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/index.html" },
+      { "source": "/food", "destination": "/magazine-food.html" },
+      { "source": "/music", "destination": "/magazine-music.html" },
+      { "source": "/travel", "destination": "/magazine-travel.html" },
+      { "source": "/contact", "destination": "/magazine-contact.html" },
+      { "source": "/magazine", "destination": "/magazine.html" },
+      { "source": "/404", "destination": "/404.html" },
+      { "source": "/maintenance", "destination": "/maintenance.html" }
+
+
+    ]
+  }
+  
