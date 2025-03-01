@@ -3,8 +3,20 @@
 
 ---
 old: Life is what happens when you're busy making other plans
+     Life is a flower of which love is the honey
 
 new: How to Use Technology to Promote Social Change.
 
 descp: Technology has created new opportunities to effect social change and improve lives.
 ---
+old: Technology is the only thing you buy that makes richer
+     The longer I live, the more beautiful life becomes.
+
+new: How can ICT help us to improve the quality of basic education?
+
+descp: Information and communication technologies (ICT) such as computers, as well as other tools and aspects of this digital era, have transformed the ways we live, work and communicate
+---
+
+old: Live in the sunshine, swim the sea, drink the wild air.
+
+new: Information and Communications Technology (ICT) for Social Change and Women's Empowerment
